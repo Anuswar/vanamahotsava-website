@@ -35,7 +35,7 @@ The project structure is organized as follows:
 - **assets**: This directory contains subdirectories for images, fonts and CSS styles.
   - **css**: Stylesheets, including `style.css`.
   - **images**: Images used in the website.
-  - **pdf**: Resume in PDF format.
+  - **Fonts**: font from webfonts.
 - **README.md**: Documentation for the project (you are here).
 
 ## 🤝 Contributing
