@@ -1,8 +1,6 @@
-Sure, here's a README file tailored for the Varnothsava website project:
-
 # Varnothsava Website 🚀
 
-Welcome to the GitHub repository for the Varnothsava website! This repository contains the source code for a full-stack website developed for Varnothsava, our college's InterCollege cultural and Technical fest. The platform features a user-friendly interface with registration, event details, gallery, and contact pages, supported by a robust backend handling data storage, Excel export, QR code generation, and email integration for entry tickets.
+This repository contains the source code for a full-stack website developed for Varnothsava, our college's InterCollege cultural and Technical fest. The platform features a user-friendly interface with registration, event details, gallery, and contact pages, supported by a robust backend handling data storage, Excel export, QR code generation, and email integration for entry tickets.
 
 ## ⚙️ Tech Stack
 
@@ -25,16 +23,12 @@ To run this website locally or make contributions, follow these steps:
 
 The project structure is organized as follows:
 
-- **views**: EJS templates for the frontend
-- **public**: Static files such as CSS, JavaScript, and images
-- **routes**: Express routes for handling requests
-- **models**: Mongoose models for MongoDB collections
-- **controllers**: Logic for handling request responses
-- **middlewares**: Custom middleware functions
-- **config**: Configuration files (e.g., database connection)
-- **utils**: Utility functions
-- **app.js**: Main application file
-- **README.md**: Documentation for the project (you are here)
+- **index.html**: The main HTML file containing the structure of the website.
+- **assets**: This directory contains subdirectories for images, fonts and CSS styles.
+  - **css**: Stylesheets, including `style.css`.
+  - **images**: Images used in the website.
+  - **pdf**: Resume in PDF format.
+- **README.md**: Documentation for the project (you are here).
 
 ## 🤝 Contributing
 
