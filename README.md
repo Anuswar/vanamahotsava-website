@@ -17,7 +17,15 @@ To run this website locally or make contributions, follow these steps:
     cd varnothsava-website
     ```
 
-2. **Open your browser** and navigate to `http://localhost:3000`.
+2. **Open the `index.html` file** in your preferred web browser or set up a local development server:
+    ```bash
+    # For Python users
+    python -m http.server
+    # For Node.js users
+    npx http-server
+    ```
+
+3. **Open your browser** and navigate to `http://localhost:8000` (or the port specified by your server).
 
 ## 📂 Project Structure
 
