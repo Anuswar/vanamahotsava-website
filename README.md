@@ -13,8 +13,8 @@ To run this website locally or make contributions, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/varnothsava-website.git
-    cd varnothsava-website
+    git clone https://github.com/Anuswar/varnothsava.git
+    cd varnothsava
     ```
 
 2. **Open the `index.html` file** in your preferred web browser or set up a local development server:
