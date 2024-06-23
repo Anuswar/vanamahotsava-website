@@ -1,4 +1,4 @@
-![Varnothsava Website Preview](assets/images/preview.jpg)
+![Varnothsava Website Preview](https://raw.githubusercontent.com/Anuswar/varnothsava/main/assets/images/preview.jpg)
 
 # Varnothsava Website 🚀
 
