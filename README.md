@@ -1,4 +1,10 @@
+Sure, here's the updated README with a preview image included below the title:
+
+---
+
 # Varnothsava Website 🚀
+
+![Varnothsava Website Preview](assets/images/preview.png)
 
 This repository contains the source code for a full-stack website developed for Varnothsava, our college's InterCollege cultural and Technical fest. The platform features a user-friendly interface with registration, event details, gallery, and contact pages, supported by a robust backend handling data storage, Excel export, QR code generation, and email integration for entry tickets.
 
@@ -50,4 +56,4 @@ Contributions are welcome! If you find any issues, have suggestions, or want to 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE.md), which means you are free to use, modify, and distribute the code. 
+This project is licensed under the [MIT License](LICENSE.md), which means you are free to use, modify, and distribute the code.
