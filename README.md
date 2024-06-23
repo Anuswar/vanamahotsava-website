@@ -1,7 +1,3 @@
-Sure, here's the updated README with a preview image included below the title:
-
----
-
 # Varnothsava Website 🚀
 
 ![Varnothsava Website Preview](assets/images/preview.png)
