@@ -1,6 +1,6 @@
 # Varnothsava Website 🚀
 
-![Varnothsava Website Preview](assets/images/preview.png)
+![Varnothsava Website Preview](assets/images/preview.jpg)
 
 This repository contains the source code for a full-stack website developed for Varnothsava, our college's InterCollege cultural and Technical fest. The platform features a user-friendly interface with registration, event details, gallery, and contact pages, supported by a robust backend handling data storage, Excel export, QR code generation, and email integration for entry tickets.
 
